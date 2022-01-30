@@ -10,6 +10,8 @@
 
 - p : 마우스 커서 위치 이미지 분류, q : 종료
 
+
+#### 실행
 ```python
 python image_classifier.py
 ```
