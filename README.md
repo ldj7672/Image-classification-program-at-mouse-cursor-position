@@ -14,6 +14,12 @@
 python image_classifier.py
 """
 
+This is a normal paragraph:
+
+    This is a code block.
+    
+end code block.
+
 
 #### 구글 이미지 검색 후 분류 예시 
 ![image](https://user-images.githubusercontent.com/96943196/149810765-d2cee0e9-2827-4f87-8e25-32c8f01a072d.png)
