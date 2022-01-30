@@ -10,11 +10,10 @@
 
 - p : 마우스 커서 위치 이미지 분류, q : 종료
 
-This is a normal paragraph:
+
 
     python image_classifier.py
-    
-end code block.
+   
 
 
 #### 구글 이미지 검색 후 분류 예시 
